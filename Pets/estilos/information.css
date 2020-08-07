@@ -1,0 +1,19 @@
+.group__information{
+    background: #1B2A93;
+    margin: 10px;
+}
+.tittle__main{
+    text-align: center;
+    margin: 10px;
+    font-size: 35px;
+    color: white;
+    padding: 5px;
+}
+
+.txt__main{
+    text-align: center;
+    margin: 10px;
+    font-size: 18px;
+    color: white;
+    padding: 10px;
+}

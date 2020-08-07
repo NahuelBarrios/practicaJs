@@ -1,0 +1,22 @@
+#brillo{
+    display: none;
+}
+
+header .icon-vista{
+    float: left;
+}
+
+html.brillo{
+    filter: invert(100%);
+}
+html.brillo img{
+    filter: invert(100%);
+}
+
+html.brillo header{
+    filter: invert(100%);
+}
+
+html.brillo .group__information{
+    filter: invert(100%);
+}

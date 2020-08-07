@@ -1,0 +1,31 @@
+.group__informationsecond{
+    position: flex;
+    flex-wrap: wrap;
+    width: 98%;
+    text-align: center;
+    
+}
+.informationSecond{
+    margin: 8px;
+    width: 100%;
+}
+.informationSecond .tittle__pet{
+    color: red;
+    font-family: 'Pacifico',cursive;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.informationSecond img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 8px solid #000000;
+}
+
+.informationSecond .decription__pet{
+    font-family: helvetica;
+    font-size: 16px;
+    margin: 10px;
+    
+}

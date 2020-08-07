@@ -1,0 +1,44 @@
+.banner{
+    position: relative;
+    top: -20px;
+}
+.imagen{
+    position: relative;
+    top:25px;
+    height:450px;
+    width: 100%;
+    object-fit: cover;
+    z-index: 70;
+}
+
+.tittle__banner{
+    z-index: 80;
+    margin:10px;
+    color: white;
+    text-shadow: 8px 8px 8px #000000;
+    position: absolute;
+    top: 320px;
+    font-size: 45px;
+    font-family: 'Chilanka',cursive;
+    font-weight: 300px;
+}
+
+.leer__mas__banner{
+    z-index: 80;
+    position: absolute;
+    top:430px;
+    left: 10px;
+    font-size: 20px;
+    width: 25%;
+    color: white;
+    border: 1px solid #ffffff;
+    text-align: center;
+    padding: 5px;
+    background: rgba(0,0,0,0.5);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.banner a:hover{
+    background: #000000;
+}
